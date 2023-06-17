@@ -2,3 +2,18 @@
   margin: 0%;
   box-sizing: border-box;
 }
+
+main-head {
+  font-size: 18px;
+}
+
+nav {
+  background: #3f6d69;
+  width: 100%;
+  height: 71px;
+}
+nav h1 {
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
